@@ -15,7 +15,7 @@ The folder "import/input" contains the raw data as provided by city agencies. Th
 #### Los Angeles Police Department
 - "import/input/LAPD/structured data/ARRESTS AND RFCS IDENTIFIED AS HOMELESS.xlsx" is raw data provided to HRW by LAPD in response to a public records act request for data on all arrests of unhoused people between 1/1/2016 and 12/31/2022.
 
-- "import/input/LAPD/structured data/Arrest_Data_downloaded5_9_23.csv" and "import/input/LAPD/structured data/Arrest_Data_through2019_downloaded.csv" contain data on all LAPD arrests downloaded from the city open records [portal]( https://data.lacity.org/).
+- "import/input/LAPD/structured data/Arrest_Data_downloaded5_9_23.csv" and "import/input/LAPD/structured data/Arrest_Data_through2019_downloaded.csv" are not included in this repository because of their size. They contain data on all LAPD arrests downloaded from the city open records [portal]( https://data.lacity.org/). You must download the arrest data (two files for pre and post 2020) from the portal.
 
 - "import/input/LAPD/structured data/CRIMES WITH HOMELESS AS VICTIM_R.xlsx" is raw data provide in response to the PRA request regarding known offenses with an unhoused victim.
 
@@ -96,3 +96,4 @@ This script analyses data downloaded from [Zillow]( https://www.zillow.com/resea
 
 ## Contact
 Please contact Brian Root at rootb@hrw.org or dilresearch@hrw.org with any questions.
+![image](https://github.com/HumanRightsWatch/USP_los_angeles_unhoused_report/assets/6944960/c6b4ce12-1402-4bd0-9f49-3c4e10148cde)
