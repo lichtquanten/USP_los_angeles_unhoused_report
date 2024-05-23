@@ -1,0 +1,344 @@
+service,services_service_item_name,housing_referral_yn,housing_attained,housing_type,perm_housing,bed_yn,bed
+Bed,Bed - A Bridge Home Bridge Sunset Individuals,,,,,1,A Bridge Home
+Bed,A Bridge Home - CD9,,,,,1,A Bridge Home
+Bed,Bed - Tiny Home Bridge Housing Alexandria Park,,,,,1,A Bridge Home
+Bed,Bed - A Bridge Home Civic Center CD14,,,,,1,A Bridge Home
+Bed,Bed - A Bridge Home Casa Azul,,,,,1,A Bridge Home
+Bed,Bed - A Bridge Home Eubank CD15,,,,,1,A Bridge Home
+Bed,Bed - A Bridge Home SPA 8,,,,,1,A Bridge Home
+Bed,A Bridge Home Canoga Park,,,,,1,A Bridge Home
+Bed,Bed - A Bridge Home Los Feliz CD4,,,,,1,A Bridge Home
+Bed,Bed - A Bridge Housing Schrader,,,,,1,A Bridge Home
+Bed,Bed - A Bridge Home Sunset Youth,,,,,1,A Bridge Home
+Bed,Bed - A Bridge Home Western CD10,,,,,1,A Bridge Home
+Bed,A Bridge Home,,,,,1,A Bridge Home
+Bed,Bed - A Bridge Home Raymer CD2,,,,,1,A Bridge Home
+Bed,Bed - A Bridge Home Van Nuys CD2,,,,,1,A Bridge Home
+Bed,Bed - COVID LA Cadillac Hotel Tier 1,,,,,1,A Bridge Home
+Bed,Bed - Bridge Housing Tiny Home Chandler,,,,,1,Bridge housing and/or tiny home
+Bed,Bed - Tiny Home Bridge Housing Harbor Park,,,,,1,Bridge housing and/or tiny home
+Bed,Bed - Tiny Home Bridge Housing Westlake,,,,,1,Bridge housing and/or tiny home
+Bed,Bed - Tiny Home Bridge Housing Whitsett West,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing  Sylmar,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing City Roadmap Broadway Matrix,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing City Roadmap Trebek Center CD 12,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing City Roadmap Valley Haven,,,,,1,Bridge housing and/or tiny home
+Bed,Bed - Tiny Home Bridge Housing Arroyo Seco,,,,,1,Bridge housing and/or tiny home
+Bed,Bed - Bridge Housing City Roadmap King Solomon,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing Roadmap Vignes,,,,,1,Bridge housing and/or tiny home
+Bed,Bed - Bridge Housing City Roadmap The Taper,,,,,1,Bridge housing and/or tiny home
+Bed,Bed - Tiny Home Bridge Housing Vanowen,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing for Women,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing City Roadmap Central LIV,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing Older Adults,,,,,1,Bridge housing and/or tiny home
+Bed,Bed - Tiny Home Bridge Housing Eagle Rock,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing City Roadmap Highland Gardens,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing City Roadmap T-House,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing Roadmap Vignes Public Defender,,,,,1,Bridge housing and/or tiny home
+Bed,Enhanced Bridge Housing for Women Roadmap,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing,,,,,1,Bridge housing and/or tiny home
+Bed,Bridge Housing,,,,,1,Bridge housing and/or tiny home
+Bed,Bed - CES Crisis Housing Program (New),,,,,1,Crisis housing
+Bed,Crisis Housing,,,,,1,Crisis Housing
+Bed,Crisis Housing,,,,,1,Crisis Housing
+Bed,Bed,,,,,1,Crisis Housing
+Bed,Crisis Housing,,,,,1,Crisis Housing
+Bed,Crisis Housing,,,,,1,Crisis Housing
+Bed,Bed - COVID LA Grand,,,,,1,LA Grand
+Bed,Bed - Inside Safe LA Grand,,,,,1,LA Grand
+Crisis Housing Motel Voucher,Motel/Hotel Voucher,,,,,1,Motel/Hotel Voucher
+E8 - Motel/Hotel Vouchers,Motel/Hotel Vouchers,,,,,1,Motel/Hotel Voucher
+Motel/Hotel Voucher,Motel/Hotel Voucher,,,,,1,Motel/Hotel Voucher
+Motel/Hotel Vouchers,Motel/Hotel Vouchers,,,,,1,Motel/Hotel Voucher
+WtW - DPSS Motel Voucher,Motel/Hotel Voucher,,,,,1,Motel/Hotel Voucher
+Bed,Site Based CH - 1 Unit,,,,,1,Other bed
+Bed,WtW - DPSS Site Based CH - 1 Unit,,,,,1,Other bed
+Bed,Bed - Healthy Living Program,,,,,1,Other bed
+Bed,Bed - Turning Point Case Management,,,,,1,Other bed
+Bed,Bed,,,,,1,Other bed
+Bed,Bed,,,,,1,Other bed
+Bed,Bed - PHK CITY Howard Johnson Reseda,,,,,1,Project House Key hotel
+Bed,Bed - PHK CITY Travelodge Devonshire,,,,,1,Project House Key hotel
+Bed,Bed - PHK CITY Econo Motor Inn,,,,,1,Project House Key hotel
+Bed,Bed - PHK CITY Best Inn,,,,,1,Project House Key hotel
+Bed,Bed - PHK CITY Good Nite Inn,,,,,1,Project House Key hotel
+Bed,Bed - PHK CITY Hotel Solaire,,,,,1,Project House Key hotel
+Bed,Bed - PHK CITY The Nest,,,,,1,Project House Key hotel
+Bed,Bed - PHK City Super 8 LAX,,,,,1,Project House Key hotel
+Bed,Bed - Winter Shelter Long Beach,,,,,1,Winter shelter
+Bed,Bed,,,,,1,Winter shelter
+Bed,Bed,,,,,1,Winter shelter
+Referral - Permanent Housing,Attained,1,Attained,Permanent housing,Referred and attained permanent housing,,
+Referral - Permanent Housing,Referral Made,1,,Permanent housing,Referred to permanent housing (not attained),,
+Referral - Permanent Housing,Follow-Up,1,,Permanent housing,Referred to permanent housing (not attained),,
+Referral - Permanent Housing,Not Attained,,,Permanent housing,Referred to permanent housing (not attained),,
+Referral - Bridge Housing,Referral Made,1,,Bridge housing,,,
+Referral - Bridge Housing,Attained,1,Attained,Bridge housing,,,
+Referral - Bridge Housing,Follow-Up,1,,Bridge housing,,,
+Referral - Bridge Housing,Not Attained,1,,Bridge housing,,,
+Referral - COVID Interim Housing,Referral Made,1,,Covid interim housing,,,
+Referral - COVID Interim Housing,Attained,1,Attained,Covid interim housing,,,
+Referral - COVID Interim Housing,Not Attained,1,,Covid interim housing,,,
+Referral - COVID Interim Housing,Follow-Up,1,,Covid interim housing,,,
+Referral - Crisis Housing,Attained,1,Attained,Crisis housing,,,
+Referral - Crisis Housing,Referral Made,1,,Crisis housing,,,
+Referral - Crisis Housing,Not Attained,1,,Crisis housing,,,
+Referral - Crisis Housing,Follow-Up,1,,Crisis housing,,,
+Referral - Housing for Health,Referral Made,1,,Housing for health,,,
+Referral - Housing for Health,Follow-Up,1,,Housing for health,,,
+Referral - Housing for Health,Attained,1,Attained,Housing for health,,,
+Referral - Housing Search and Placement,Referral Made,1,,Housing search and placement,,,
+Referral - Housing Search and Placement,Attained,1,Attained,Housing search and placement,,,
+Referral - Housing Search and Placement,Follow-Up,1,,Housing search and placement,,,
+Referral - Housing Search and Placement,Not Attained,1,,,,,
+Referral - Interim Housing,Referral Made,1,,Interim housing,,,
+Referral - Interim Housing,Attained,1,Attained,Interim housing,,,
+Referral - Interim Housing,Follow-Up,1,,Interim housing,,,
+Referral - Interim Housing,Not Attained,1,,Interim housing,,,
+Referral - Motel/Hotel Voucher,Attained,1,Attained,Motel/hotel voucher,,,
+Referral - Motel/Hotel Voucher,Referral Made,1,,Motel/hotel voucher,,,
+Referral - Motel/Hotel Voucher,Follow-Up,1,,Motel/hotel voucher,,,
+Referral - Motel/Hotel Voucher,Not Attained,1,,Motel/hotel voucher,,,
+Referral - Motel/Hotel Vouchers,Attained,1,Attained,Motel/hotel voucher,,,
+Referral - Motel/Hotel Vouchers,Referral Made,1,,Motel/hotel voucher,,,
+Referral - Motel/Hotel Vouchers,Follow-Up,1,,Motel/hotel voucher,,,
+Referral - Project Roomkey,Referral Made,,,Project Roomkey,,,
+Referral - Project Roomkey,Attained,,Attained,Project Roomkey,,,
+Referral - Project Roomkey,Follow-Up,,,Project Roomkey,,,
+Referral - Rapid Re-Housing Program,Referral Made,,,Rapid re-housing program,,,
+Referral - Rapid Re-Housing Program,Attained,1,Attained,Rapid re-housing program,,,
+Referral - Rapid Re-Housing Program,Follow-Up,1,,Rapid re-housing program,,,
+Referral - Temporary Housing,Referral Made,1,,Temporary housing,,,
+Referral - Temporary Housing,Attained,1,Attained,Temporary housing,,,
+Actual Release Date,Actual Release Date,,,,,,
+Alcohol and Drug Abuse,Alcohol and Drug Abuse,,,,,,
+Alcohol and Drug Abuse,Harm Reduction Supplies/Education,,,,,,
+Appointments,Attended with Client,,,,,,
+Appointments,Schedule for/or with Client,,,,,,
+Appointments,Case Consultation Follow-Up,,,,,,
+Basic and Hygiene Items,Hygiene Kit,,,,,,
+Basic and Hygiene Items,COVID PPE,,,,,,
+Basic and Hygiene Items,Clothing,,,,,,
+Basic and Hygiene Items,Gift Card,,,,,,
+Basic and Hygiene Items,Narcan/Nalaxone,,,,,,
+Basic and Hygiene Items,Electric/Outdoor Supplies/Misc,,,,,,
+Basic and Hygiene Items,Sleeping Bag,,,,,,
+Basic and Hygiene Items,Narcan/Naloxone,,,,,,
+Basic and Hygiene Items,Tent,,,,,,
+Basic and Hygiene Items,PPE,,,,,,
+Basic and Hygiene Items,Showers,,,,,,
+Basic and Hygiene Items,Clothing - SJC Access Center,,,,,,
+Basic and Hygiene Items,Mail Services,,,,,,
+Basic and Hygiene Items,Hygiene Kit - SJC Access Center,,,,,,
+Basic and Hygiene Items,Mail Service,,,,,,
+Basic and Hygiene Items,Laundry,,,,,,
+Basic and Hygiene Items,Shower,,,,,,
+Basic and Hygiene Items,Sleeping Bags/Blankets,,,,,,
+Basic and Hygiene Items - CD 2 Navigation Center/Hygiene & Linkages,Restroom,,,,,,
+Basic and Hygiene Items - CD 2 Navigation Center/Hygiene & Linkages,Shower,,,,,,
+Basic and Hygiene Items - CD 8 Navigation Center/Hygiene & Linkages,Restroom,,,,,,
+Basic and Hygiene Items - CD 8 Navigation Center/Hygiene & Linkages,Laundry,,,,,,
+Basic and Hygiene Items - CD 8 Navigation Center/Hygiene & Linkages,Shower,,,,,,
+Basic and Hygiene Items - CES Access Center SPA 2,Restroom,,,,,,
+Basic and Hygiene Items - CES Access Center SPA 2,Shower,,,,,,
+Benefit Assistance,Benefit Assistance,,,,,,
+Benefits Assistance,Benefits Assistance,,,,,,
+C3 Center Drop-In,C3 Center Drop-In,,,,,,
+C3 Center Drop-In,Computer Use,,,,,,
+C3 Center Group Attendance,C3 Center Group Attendance,,,,,,
+Case management,Case management,,,,,,
+Case Management,Case Management,,,,,,
+Case Management,Home Visits,,,,,,
+Case Management,Intake,,,,,,
+Clinical assessment,Clinical assessment,,,,,,
+Community mental health,Community mental health,,,,,,
+COVID Shelter In Place Support,COVID Shelter In Place Support,,,,,,
+COVID SMS Tool,COVID SMS Tool,,,,,,
+COVID Testing,COVID Testing,,,,,,
+COVID Testing Support,COVID Testing Support,,,,,,
+COVID Testing/Vaccine Follow-Up,COVID Testing/Vaccine Follow-Up,,,,,,
+COVID Triage Tool,COVID Triage Tool,,,,,,
+COVID Vaccine Support,COVID Vaccine Support,,,,,,
+Document Assistance,Homeless Verification,,,,,,
+Document Assistance,ID/Driver's License,,,,,,
+Document Assistance,Birth Certificate,,,,,,
+Document Assistance,Social Security Card,,,,,,
+Document Assistance,Other,,,,,,
+Document Assistance,Benefits/Income Verification,,,,,,
+Document Assistance,Verification of Disability,,,,,,
+Document Assistance,Court Documents,,,,,,
+Document Assistance,DMV Voucher,,,,,,
+Document Assistance,Passport,,,,,,
+Education,Education,,,,,,
+Emergency Response,Emergency Response,,,,,,
+Emergency Response,Emergency Reponse,,,,,,
+Employment,Employment,,,,,,
+Family Reunification,Family Reunification,,,,,,
+Food and Drink Items,Meal Card,,,,,,
+Food and Drink Items,Bottled Water,,,,,,
+Food and Drink Items,Food,,,,,,
+Food and Drink Items,Food and Drink Items,,,,,,
+Food and Drink Items,Food - COVID LA Grand,,,,,,
+Food and Drink Items,Meals,,,,,,
+Food and Drink Items,Food Gift Card,,,,,,
+Food and Drink Items,Food - SJC Access Center,,,,,,
+Food and Drink Items,Food - COVID LA Cadillac Hotel Tier 1,,,,,,
+Food and Drink Items,Water,,,,,,
+Food and Drink Items - PD ESG,Food,,,,,,
+Food and Drink Items - Tri City,Food,,,,,,
+Host Stipend,Host Stipend,,,,,,
+Housing and Service Plan,Housing and Service Plan,,,,,,
+Housing and Services Plan,Housing And Services Plan,,,,,,
+Housing and Services Plan,Housing and Services Plan,,,,,,
+Housing and Services Plan,Housing and Service Plan,,,,,,
+Housing eligibility determination,Housing eligibility determination,,,,,,
+Housing Search and Placement,Housing Search and Placement,,,,,,
+Housing Search and Placement,Housing search and Placement,,,,,,
+Housing Stability Plan,Housing Stability Plan,,,,,,
+Landlord Mediation,Landlord Mediation,,,,,,
+Legal,Legal,,,,,,
+Life Skills,Life Skills,,,,,,
+Life Skills,Personal Development,,,,,,
+Life Skills,Group Therapy,,,,,,
+Mail,Mail Pick Up - SJC Access Center,,,,,,
+Material Goods,Material Goods,,,,,,
+Mental Health,Mental Health,,,,,,
+Missing Client Search,Missing Client Search,,,,,,
+Moving Cost Assistance,Essential Furnishings,,,,,,
+Moving Cost Assistance,Application Fee,,,,,,
+Moving Cost Assistance,Moving Costs Assistance,,,,,,
+Moving Cost Assistance,Storage Fee,,,,,,
+Other,Other,,,,,,
+Other Health Care,Other Health Care,,,,,,
+Parking Space,Parking Space - Figueroa,,,,,,
+Parking Space,Parking Space - Metro Atlantic,,,,,,
+Pet Support,Pet Support,,,,,,
+Pet Support,Emotional Support/Service Animal Certification,,,,,,
+Physical Disability,Physical Disability,,,,,,
+Physical Health,Physical Health,,,,,,
+Referral - 211,Referral Made,,,,,,
+Referral - 211,Attained,,,,,,
+Referral - 211,Follow-Up,,,,,,
+Referral - Access Center,Referral Made,,,,,,
+Referral - Access Center,Attained,,,,,,
+Referral - Access Center,Not Attained,,,,,,
+Referral - Alcohol and Drug Abuse Services,Referral Made,,,,,,
+Referral - Alcohol and Drug Abuse Services,Attained,,,,,,
+Referral - Alcohol and Drug Abuse Services,Not Attained,,,,,,
+Referral - Alcohol and Drug Use,Referral Made,,,,,,
+Referral - Benefits,Referral Made,,,,,,
+Referral - Benefits,Attained,,,,,,
+Referral - Benefits,Follow-Up,,,,,,
+Referral - CBEST,Referral Made,,,,,,
+Referral - Community mental health,Referral Made,,,,,,
+Referral - Community mental health,Attained,,,,,,
+Referral - COVID Isolation Bed,Attained,,,,,,
+Referral - COVID Testing,Referral Made,,,,,,
+Referral - COVID Testing,Attained,,,,,,
+Referral - CTU Medi-Cal Application,Referral Made,,,,,,
+Referral - DHS Mobile Health Clinic,Attained,,,,,,
+Referral - DHS Mobile Health Clinic,Referral Made,,,,,,
+Referral - DHS Mobile Health Clinic,Not Attained,,,,,,
+Referral - DMH HOME,Referral Made,,,,,,
+Referral - DMH HOME,Follow-Up,,,,,,
+Referral - Document Assistance,Referral Made,,,,,,
+Referral - Educational Services,Referral Made,,,,,,
+Referral - Educational Services,Attained,,,,,,
+Referral - Educational Services,Follow-Up,,,,,,
+Referral - Employment Services,Referral Made,,,,,,
+Referral - Employment Services,Attained,,,,,,
+Referral - Employment Services,Not Attained,,,,,,
+Referral - Family System,Referral Made,,,,,,
+Referral - FSP/HFSP,Referral Made,,,,,,
+Referral - Health Services,Referral Made,,,,,,
+Referral - Inpatient Services,Attained,,,,,,
+Referral - Inpatient Services,Referral Made,,,,,,
+Referral - Legal Services,Referral Made,,,,,,
+Referral - Legal Services,Attained,,,,,,
+Referral - Life Skills,Referral Made,,,,,,
+Referral - Life Skills,Attained,,,,,,
+Referral - Life Skills,Follow-Up,,,,,,
+Referral - Medical Service,Referral Made,,,,,,
+Referral - Mental Health Services,Referral Made,,,,,,
+Referral - Mental Health Services,Attained,,,,,,
+Referral - Mental Health Services,Not Attained,,,,,,
+Referral - Other Health Care Services,Referral Made,,,,,,
+Referral - Other Health Care Services,Attained,,,,,,
+Referral - Other Health Care Services,Follow-Up,,,,,,
+Referral - Other Health Care Sevices,Referral Made,,,,,,
+Referral - Other Services,Referral Made,,,,,,
+Referral - Other Services,Attained,,,,,,
+Referral - Other Services,Follow-Up,,,,,,
+Referral - Outpatient Services,Referral Made,,,,,,
+Referral - Outpatient Substance Use Services,Attained,,,,,,
+Referral - Outpatient Substance Use Services,Referral Made,,,,,,
+Referral - Pet Support,Referral Made,,,,,,
+Referral - Pet Support,Attained,,,,,,
+Referral - Physical Disability Services,Referral Made,,,,,,
+Referral - Physical Disability Services,Attained,,,,,,
+Referral - Physical Disability Services,Not Attained,,,,,,
+Referral - Primary Care,Referral Made,,,,,,
+Referral - Primary Care,Attained,,,,,,
+Referral - Primary Care,Follow-Up,,,,,,
+Referral - Primary Care,Not Attained,,,,,,
+Referral - Recuperative Care,Referral Made,,,,,,
+Referral - Showers,Referral Made,,,,,,
+Referral - Showers,Attained,,,,,,
+Referral - Showers/Hygiene Services,Referral Made,,,,,,
+Referral - Showers/Hygiene Services,Attained,,,,,,
+Referral - Showers/Hygiene Services,Follow-Up,,,,,,
+Referral - Specialty Care,Referral Made,,,,,,
+Referral - Specialty Care,Attained,,,,,,
+Referral - Substance Use Services,Referral Made,,,,,,
+Referral - Substance Use Services,Attained,,,,,,
+Referral - Substance Use Services,Follow-Up,,,,,,
+Referral - Substance Use Services,Not Attained,,,,,,
+Referral - Transportation,Attained,,,,,,
+Referral - Transportation,Referral Made,,,,,,
+Referral - Transportation,Follow-Up,,,,,,
+Referral - Urgent Care,Attained,,,,,,
+Referral - Urgent Care,Referral Made,,,,,,
+Referral - Veteran Services,Referral Made,,,,,,
+Referral - Youth System,Follow-Up,,,,,,
+Referral - Youth System,Referral Made,,,,,,
+Rental Assistance,Rental Assistance,,,,,,
+Screening,Screening,,,,,,
+Security Deposit,Security Deposit,,,,,,
+Service Information/Brochures,COVID Education,,,,,,
+Service Information/Brochures,Service Information/Brochures,,,,,,
+Services Information/Brochures,Services Information/Brochures,,,,,,
+Services Information/Brochures,COVID Education,,,,,,
+Services Information/Brochures,Service Information/Brochures,,,,,,
+Showers - PD ESG,Showers - PD ESG,,,,,,
+Showers - Tri City,Showers,,,,,,
+Storage Bins - CD 15 Navigation/Storage Program,Bin Pull,,,,,,
+Storage Bins - CD 15 Navigation/Storage Program,Renewal,,,,,,
+Storage Bins - CD 15 Navigation/Storage Program,Pack-Out,,,,,,
+Storage Bins - CD 2 Navigation/Storage Program,Bin Pull,,,,,,
+Storage Bins - CD 2 Navigation/Storage Program,Renewal,,,,,,
+Storage Bins - CD 2 Navigation/Storage Program,Pack-Out,,,,,,
+Storage Bins - CD 2 Navigation/Storage Program,Discard,,,,,,
+Storage Bins - CD 8 Navigation/Storage Program,Bin Pull,,,,,,
+Storage Bins - CD 8 Navigation/Storage Program,Renewal,,,,,,
+Substance Use Counseling,Substance Use Counseling,,,,,,
+Substance Use Service,Substance Use Services,,,,,,
+Substance Use Service,Harm Reduction &amp; General Substance Use Education,,,,,,
+Substance Use Service,Needle Exchange,,,,,,
+Tent Space,Tent Space - Safe Sleep Lincoln,,,,,,
+Transportation,Direct Transportation,,,,,,
+Transportation,"Ride Service (ACCESS, Dial a Ride, Lyft/Uber, Medical Insurance)",,,,,,
+Transportation,Transportation,,,,,,
+Transportation,Bus Pass,,,,,,
+Transportation,"Ride Service (ACCESS, Dial a Ride, Lyft/Uber)",,,,,,
+Transportation,Metro Fare,,,,,,
+Transportation,Taxi Vouchers,,,,,,
+Transportation,Taxi Voucher,,,,,,
+Transportation,Bus Tokens,,,,,,
+Transportation,Ride Services,,,,,,
+Utility Payments,Utility Payments,,,,,,
+Utility Payments,Utility Arrears,,,,,,
