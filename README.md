@@ -19,7 +19,7 @@ The folder "import/input" contains the raw data as provided by city agencies. Th
 
 - "import/input/LAPD/structured data/CRIMES WITH HOMELESS AS VICTIM_R.xlsx" is raw data provide in response to the PRA request regarding known offenses with an unhoused victim.
 
--   "import/input/LAPD/structured data/Crime_Data_from_2020_to_Present.csv" and "import/input/LAPD/structured data/Crime_Data_from_2010_to_2019_20231107.csv" are LAPD datasets on reported crime downloaded from the city open records [portal]( https://data.lacity.org/).
+-   "import/input/LAPD/structured data/Crime_Data_from_2020_to_Present.csv" and "import/input/LAPD/structured data/Crime_Data_from_2010_to_2019_20231107.csv" are LAPD datasets on reported crime downloaded from the city open records [portal]( https://data.lacity.org/). They are too large to include in this repository and must be downloaded from the portal.
 
 -   "import/input/LAPD/structured data/USE OF FORCE_R.xlsx" was provided in response to our PRA request for all data on use of force and whether the subject was unhoused.
 
