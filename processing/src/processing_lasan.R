@@ -5,7 +5,7 @@
 # =========================================
 # OneDrive-HumanRightsWatch/HRW/HRW-us-losangeles-policinghomelessness/processing/src/processing_lasan.r
 library(pacman)
-p_load(lubridate, readxl, readr, rcartocolor, extrafont, scales, tidycensus,
+p_load(lubridate, readxl, readr, rcartocolor, extrafont, scales, tidycensus, janitor,
        CGPfunctions, tidyverse, qs, fuzzyjoin)
 options(scipen=999)
 
