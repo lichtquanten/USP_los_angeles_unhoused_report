@@ -13,9 +13,6 @@ options(tigris_use_cache = TRUE)
 
 here <- here::here
 
-source("../docs/plot_themes.R")
-
-
 ########### input and output files ##############
 # input files:
 inputfiles <- list(
