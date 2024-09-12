@@ -54,6 +54,9 @@ This folder contains the scripts in the “processing/src” folder and addition
 “tidy_census_processing” contains a script for downloading and cleaning data downloaded from the US Census Bureau and CPI inflation data.
 After running all of the processing scripts, the “processing/output” folder will be filled with processed data.
 
+Use ```make all``` to run all processing scripts. This will create a folder called “processing/output” that contains all the processed data. You must have Docker installed to use this command.
+
+Note: You must have downloaded the LAPD data and placed the needed files in the import directory first for the LAPD processing script to succeed.
 
 ## Geo-matching
 
