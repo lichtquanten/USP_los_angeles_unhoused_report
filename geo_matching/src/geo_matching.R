@@ -6,9 +6,18 @@
 # OneDrive-HumanRightsWatch/HRW/HRW-us-losangeles-policinghomelessness/geo_matching/src/geo_matching.r
 
 
-library(pacman)
-p_load(lubridate, readxl, readr, rcartocolor, extrafont, scales, tidycensus,
-       CGPfunctions, tidyverse, qs, fuzzyjoin, sf)
+library(CGPfunctions)
+library(extrafont)
+library(fuzzyjoin)
+library(lubridate)
+library(qs)
+library(rcartocolor)
+library(readr)
+library(readxl)
+library(scales)
+library(sf)
+library(tidycensus)
+library(tidyverse)
 options(scipen=999)
 
 here <- here::here

@@ -4,9 +4,18 @@
 # Copyright:   2023
 # =========================================
 # OneDrive-HumanRightsWatch/HRW/HRW-us-losangeles-policinghomelessness/processing/src/processing_lasan.r
-library(pacman)
-p_load(lubridate, readxl, readr, rcartocolor, extrafont, scales, tidycensus, janitor,
-       CGPfunctions, tidyverse, qs, fuzzyjoin)
+library(CGPfunctions)
+library(extrafont)
+library(fuzzyjoin)
+library(janitor)
+library(lubridate)
+library(qs)
+library(readr)
+library(readxl)
+library(rcartocolor)
+library(scales)
+library(tidycensus)
+library(tidyverse)
 options(scipen=999)
 
 here <- here::here

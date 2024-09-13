@@ -4,11 +4,18 @@
 # Copyright:   2023
 # =========================================
 # OneDrive-HumanRightsWatch/HRW/HRW-us-losangeles-policinghomelessness/descriptives/src/lahsa_inside_safe.r
+library(CGPfunctions)
+library(extrafont)
+library(fuzzyjoin)
+library(lubridate)
+library(qs)
+library(rcartocolor)
+library(readr)
+library(readxl)
+library(scales)
+library(tidycensus)
+library(tidyverse)
 
-
-library(pacman)
-p_load(lubridate, readxl, readr, rcartocolor, extrafont, scales, tidycensus,
-       CGPfunctions, tidyverse, qs, fuzzyjoin)
 options(scipen=999)
 
 here <- here::here

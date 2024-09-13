@@ -3,9 +3,15 @@
 # Copyright:   2022
 # =========================================
 # OneDrive-HumanRightsWatch/HRW/HRW-us-losangeles-policinghomelessness/descriptives/src/HACLA_descriptives.r
-library(pacman)
-p_load(lubridate, readxl, readr, extrafont, scales, tidyverse, tidycensus,
-       purrr, quantmod)
+library(extrafont)
+library(lubridate)
+library(purrr)
+library(quantmod)
+library(readr)
+library(readxl)
+library(scales)
+library(tidycensus)
+library(tidyverse)
 
 options(scipen=999)
 

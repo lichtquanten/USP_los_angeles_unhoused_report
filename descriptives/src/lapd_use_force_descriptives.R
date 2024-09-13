@@ -4,9 +4,17 @@
 # Copyright:   2022
 # =========================================
 # OneDrive-HumanRightsWatch/HRW/HRW-us-losangeles-policinghomelessness/descriptives/src/lapd_use_force_descriptives.r
-library(pacman)
-p_load(lubridate, readxl, readr, rcartocolor, extrafont, scales, tidycensus,
-       CGPfunctions, tidyverse, qs, fuzzyjoin)
+library(CGPfunctions)
+library(extrafont)
+library(fuzzyjoin)
+library(lubridate)
+library(qs)
+library(rcartocolor)
+library(readr)
+library(readxl)
+library(scales)
+library(tidycensus)
+library(tidyverse)
 options(scipen=999)
 
 here <- here::here

@@ -5,10 +5,22 @@
 # =========================================
 # OneDrive-HumanRightsWatch/HRW/HRW-us-losangeles-policinghomelessness/descriptives/src/lapd_descriptives.r
 
+# Load libraries
+library(CGPfunctions)
+library(extrafont)
+library(fuzzyjoin)
+library(here)
+library(janitor)
+library(lubridate)
+library(purrr)
+library(qs)
+library(readr)
+library(readxl)
+library(rcartocolor)
+library(scales)
+library(tidycensus)
+library(tidyverse)
 
-library(pacman)
-p_load(lubridate, readxl, readr, rcartocolor, extrafont, scales, tidycensus,
-       CGPfunctions, tidyverse, qs, fuzzyjoin, janitor)
 options(scipen=999)
 
 here <- here::here

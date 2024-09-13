@@ -4,10 +4,24 @@
 # Copyright:   2023
 # =========================================
 # OneDrive-HumanRightsWatchInc/20220101_USA_USP_LosAngelesUnhoused/descriptives/src/zillow.r"
-library(pacman)
-p_load(lubridate, readxl, readr, rcartocolor, extrafont, scales, tidycensus,
-       CGPfunctions,  qs, fuzzyjoin, sf, janitor, tigris,
-       mapview, leaflet, tmap, tidyverse)
+library(CGPfunctions)
+library(extrafont)
+library(fuzzyjoin)
+library(janitor)
+library(leaflet)
+library(lubridate)
+library(mapview)
+library(qs)
+library(rcartocolor)
+library(readr)
+library(readxl)
+library(scales)
+library(sf)
+library(tidycensus)
+library(tigris)
+library(tidyverse)
+library(tmap)
+
 options(scipen=999)
 options(tigris_use_cache = TRUE)
 
