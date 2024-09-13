@@ -24,6 +24,7 @@ library(tmap)
 options(scipen=999)
 options(tigris_use_cache = TRUE)
 
+stopifnot(requireNamespace("here", quietly = TRUE))
 here <- here::here
 
 ########### input and output files ##############

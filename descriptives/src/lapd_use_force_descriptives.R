@@ -17,6 +17,7 @@ library(tidycensus)
 library(tidyverse)
 options(scipen=999)
 
+stopifnot(requireNamespace("here", quietly = TRUE))
 here <- here::here
 
 
